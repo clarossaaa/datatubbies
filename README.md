@@ -6,4 +6,4 @@ This project provides an advanced Text Analytics Tool for extracting insights fr
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/clarossaaa/datatubbies
+   git clone https://github.com/clarossaaa/smubia-datathon-datatubbies
